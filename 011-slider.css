@@ -1,0 +1,14 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+.clearfix {
+  clear: both;
+}
+#slider {
+  margin: 0 auto;
+  text-align: center;
+  width: 640px;/*anchura de la imagen*/
+  overflow: hidden;
+}
